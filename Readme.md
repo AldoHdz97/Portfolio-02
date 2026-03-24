@@ -173,7 +173,7 @@ Execute the main crew cell. Takes ~10-15 minutes.
 ```
 Campus [NOMBRE COMPLETO]
 
-En agosto 2025, el campus [nombre] presentó un desempeño [categoría]. 
+En [MES] [AÑO], el campus [nombre] presentó un desempeño [categoría].
 La visibilidad fue [categoría] y la resonancia [categoría]. 
 El alcance [aumentó/disminuyó] un [X.X]% y las interacciones [aumentaron/disminuyeron] un [X.X]% respecto al mismo mes del año anterior.
 
